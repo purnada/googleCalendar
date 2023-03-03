@@ -1,0 +1,8 @@
+.progress { position:relative; width:100%; }
+.bar { background-color: #00ff00; width:0%; height:20px; }
+.percent { position:absolute; display:inline-block; left:50%; color: #040608;}
+.contest-video img.contest-youtube-image{
+    width: 100%;
+    position:relative;
+    display:block;
+}

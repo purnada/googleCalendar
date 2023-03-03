@@ -1,0 +1,149 @@
+li.breadcrumb-item > a.active {
+    color: #6c757d;
+}
+
+.naya_convert {
+    display: none;
+}
+
+span.required {
+    color: red;
+}
+
+label.required:after {
+    content: "*";
+    color: red;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+input[type="number"] {
+    -moz-appearance: textfield;
+}
+.modal .modal-body {
+    overflow-y: auto;
+    max-height: 550px;
+}
+.time-wraper {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 40px;
+    background: #cde4ef !important;
+}
+.hours {
+    border: 1px solid #95d4f3;
+    padding: 0px;
+}
+.time-table {
+    height: 40px;
+    overflow-y: hidden;
+    border-bottom: 1px solid #95d4f3;
+}
+.pd0 {
+    padding: 0px !important;
+}
+.time-bar {
+    cursor: pointer;
+    /* height: 15px; */
+    font-weight: 300;
+    font-size: 10px;
+}
+.time-box {
+    position: absolute;
+    top: 5px;
+    overflow: hidden;
+    line-height: 25px;
+    color: #fff;
+    border-radius: 5px;
+    z-index: 99;
+    height: 28px;
+    padding: 0px 5px;
+    border: 1px solid #fff;
+}
+.timebg1 {
+    background: #70bf55;
+}
+.timebg2 {
+    background: #d53009;
+}
+.timebg3 {
+    background: #f39c12;
+}
+.timebg4 {
+    background: #30bbbb;
+}
+.timebg5 {
+    background: #7edede;
+}
+.timebg6 {
+    background: #59b6f5;
+}
+.timebg7 {
+    background: #00a7d0;
+}
+.timebg8 {
+    background: #009cd9;
+}
+.timebg9 {
+    background: #0174aa;
+}
+.timebg10 {
+    background: #456954;
+}
+.timebg11 {
+    background: #3366cc;
+}
+.timebg12 {
+    background: #fefefe;
+}
+
+.lightbluebg {
+    background-color: #cde4ef !important;
+    border-top: 2px solid #b3d6e6;
+    box-shadow: 0px 1px 3px rgb(0 0 0 / 10%);
+}
+
+.users-list > li {
+    width: 100% !important;
+}
+
+.staffs-list-name {
+    color: #495057;
+    font-size: 0.875rem;
+    /* overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap; */
+}
+
+.custom-modal .modal-content {
+    border-radius: 10px;
+    border: 2px solid #420a1f;
+}
+.custom-modal .modal-header .close {
+    position: absolute;
+    background-color: #f6f6f6;
+    z-index: 1;
+    right: -7px;
+    top: -7px;
+    border-radius: 50%;
+    border: 2px solid #420a1f;
+    opacity: 1;
+    font-size: 18px;
+    font-weight: 900;
+}
+.close:hover {
+    background-color: #f6f6f6;
+    opacity: 1;
+}
+.custom-modal .modal-header {
+    font-weight: 700;
+    font-size: 21px;
+    color: #ffff;
+    background-color: #420a1f;
+}

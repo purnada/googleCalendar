@@ -1,0 +1,12 @@
+{
+    "type": "service_account",
+    "project_id": "rolling-plans-267104",
+    "private_key_id": "d89b07c560b4d34d7cf48eddfc40cb75c3c91876",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDKyL+92ihKclGx\nvvDznYdEkacsInqnwj2RoG8JgxaVsxUheUTbBGIEjg2sfppEjRPtPlD9pNj6WhEv\nXwh/JuyvSlJDSqlRZ0g+cKIr8SuAfB99yD63ihwCuVB/p/Edo3HTALtGooBccoNB\nLFDtb8yNVepPsjgupLcpmMv9BMtIEEXQ7zGMU8nzxsMYUH/vqxZBW9qmFvgoe3aM\nFnTox8f0O70oKaY8Ic+2kvA0afIolvxcp6OQw+s6jgCyGk3Bd0w15TbTbT9Wna+U\nMaGMS1TPJk1Rah4Ro3v6S/+RGEo4U/0Be7aj0Ltl6NknqKyo75C395+5hCIqQMfW\ngmEKth1fAgMBAAECggEAJ+GNXDBAhkuvZ26vAqpzhPfEUfjB+KZJ548O52cBlRVw\nTXIFKbHV+SFa7RbFDkBUr+72jLvT9ICsKo3dJOyp1dufDB7t59WRLr6GFnBK5u0C\nYIF2XDBsS9jYTRLhZ7vSUfYt3rls10GqMLIfhGLdbtp7x4q8Y+f/Ic4sKCm+NQCs\nh/8EWWrQdo/E5oL9sSYNAVAYruXOeU+ZfOpgnmQxsrMSCqF1IyoUWRYasAffsZEY\nr4FHZDvwSnZ1Qj3ZiOSFsvdnfCmvTwdKr62pkBeHEeZAN0Iue0mDFyWmCsVRyufG\nKVd7UdUZeeZbjlRs2mz8ZyES2aejlVUFHCXwr9ecWQKBgQDw5ewo9mzeQXI85FTu\nfvvoCb2L/SZjcrUGFmIfQ/fuZJuU2RWhJ9L+34DreRycgUt8BGbXK0NLFD69fxaK\nZ9GmD/JTpmCLjB0Ek7Qao6pCd0eFq3OmvqMWwmeLvuLYhmwFAgxRz4119H2n5n6m\n9SM0hbrZ/eSv2KPbzC8nTxeg6wKBgQDXfyaeg693+UWytT7+xvMa7JP/v6wCn5uZ\n5r29DKdUbckZFKyfl7ClM0KlGAvGo5rTIxVh4wXoic2HtXw/8vCn2L5X/g2RHis6\nTlyml+OGvs7eQsjPC3+z4NKxL6HHksVyixxv/DyILdT82F+GzsEK0dul62ad76Rh\nnpLEWnf4XQKBgEHQf0ndsXazaLOMKkwSc148swV4/zDyWNS17s7d8fG2mO78tDUY\nPUQW6hDrQM7dYDMcvMASeMsdV9rLyuu7W4LEHo+OCBh4CkGC3RTeHBkWn3q8kdc/\nhC0mpcV/PFituPtRSO5dByfvyRjDF10j4h9qXddKz1zfkjzttwBFUo5LAoGBAJvh\n117M5S4E/Bz0rNgBtDNitQBIdzYCnL0sQ04wjA4vyEtDQEfFo7sspGXmSgZrrIBU\nnZAMd+apYCpt5q4fn2PbDn16QfgaeayYqL69mpGLDvuKFdZne/3zgJU5Xm6ORhPA\ne1aqgGMFvE8Weat7ffrEqX2RFc7jXeZbndE5nBTlAoGAeTNRCkxC8cvq75LYZeGb\nsI/wsrmndtnQV3hOdIsljl3HN2BanFOUyZbYPlfHNJ/gEWioxUzPl16qFWRuPptY\nAjqD9Z696Ba2VryHOfJ5Aa6FwSUEPQnxv0OUqdErBF6CInarSHb3+h7zQnSCiTfL\n2hobY4gY7mt2KrzbMgx4j0A=\n-----END PRIVATE KEY-----\n",
+    "client_email": "google-calendar@rolling-plans-267104.iam.gserviceaccount.com",
+    "client_id": "112342241228191076745",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/google-calendar%40rolling-plans-267104.iam.gserviceaccount.com"
+}

@@ -1,0 +1,169 @@
+.performance-table tr td,
+.performance-table tr th {
+    padding: 0px 8px !important;
+}
+.staff-detail {
+    float: none !important;
+}
+.staff-detail i {
+    color: #00c0ef;
+}
+.staff-detail ul {
+    padding: 0px;
+    margin: 0px;
+}
+.staff-detail ul li {
+    list-style-type: none;
+    border-bottom: 1px solid #f7f7f7;
+    padding: 4px 0px;
+}
+.staff-name {
+    color: #70bf55;
+    font-size: 22px;
+    padding-bottom: 10px !important;
+    margin: 0px;
+    line-height: 5px;
+}
+.rt30p {
+    padding-right: 0.3px;
+}
+.pointbox {
+    border: 1px solid #0890c7;
+    padding: 2px 15px;
+    border-radius: 3px;
+    font-size: 16px;
+    color: #0890c7;
+    margin-right: 15px;
+}
+.penaltybox {
+    border: 1px solid #d53009;
+    padding: 2px 15px;
+    border-radius: 3px;
+    font-size: 16px;
+    color: #d53009;
+}
+.permanentbtn {
+    background-color: #70bf55;
+    color: #fff;
+    border-radius: 15px;
+    padding: 1px 10px;
+}
+.probationbtn {
+    background-color: #70bf55;
+    color: #fff;
+    border-radius: 15px;
+    padding: 1px 10px;
+}
+.temporarybtn {
+    background-color: #70bf55;
+    color: #fff;
+    border-radius: 15px;
+    padding: 1px 10px;
+}
+.profilehd {
+    background-color: #e6f7fd;
+    color: #0096c4;
+    padding: 7px 15px;
+    font-size: 15px;
+    border-radius: 3px 3px 0px 0px;
+    margin: 15px 0px 0px 0px;
+    font-weight: 600;
+}
+.profile_infolist {
+    border: 1px solid #f4f4f4;
+}
+.profile_infolist ul {
+    list-style-type: none;
+    background-color: #fff;
+    padding: 5px 0px;
+    margin: 0px;
+}
+.profile_infolist ul li {
+    padding: 5px 15px;
+    border-bottom: 1px solid #f4f4f4;
+}
+.profile_infolist ul li:last-child {
+    border-bottom: 0px;
+}
+.profile_infolist ul li span {
+    margin-left: 10px;
+}
+.normal {
+    font-weight: 400;
+    font-size: 13px;
+    color: #000;
+}
+.profilebtn {
+    border-radius: 3px;
+    border: 1px solid #ebebeb;
+    color: #0890c7;
+    font-weight: 500;
+    font-size: 12px;
+    background-image: linear-gradient(to bottom, #f9f9f9 0, #ffffff 100%);
+    -webkit-transition: background-color 0.6s ease-out;
+    -moz-transition: background-color 0.6s ease-out;
+    -o-transition: background-color 0.6s ease-out;
+    transition: background-color 0.6s ease-out;
+    margin-right: 5px;
+    padding: 6px 20px;
+}
+.profilebtn:hover {
+    background-image: linear-gradient(to bottom, #089dda 0, #0890c7 100%);
+    border: 1px solid #0394cf;
+    color: #fff;
+}
+.tb15m {
+    margin: 15px 0px;
+}
+.performance-table tr td {
+    line-height: 35px !important;
+    background-color: #f6f6f6;
+    border-bottom: 1px solid #fff;
+}
+
+.cm10-row {
+    margin-left: -5px;
+    margin-right: -5px;
+}
+
+.mb20 {
+    margin-bottom: 20px;
+}
+
+.staff-image {
+    width: 100%;
+    border: 1px solid #7cc563;
+}
+
+.user-details {
+    float: none !important;
+    margin-left: 5px;
+    padding: 5px;
+}
+
+.user-details ul {
+    padding: 0px;
+    margin: 0px;
+}
+
+.user-details ul li {
+    list-style-type: none;
+    border-bottom: 1px solid #f7f7f7;
+    padding: 4px 0px;
+}
+
+.user-details ul .staff-name {
+    color: #70bf55;
+    font-size: 22px;
+    padding-bottom: 10px !important;
+    margin: 0px;
+    line-height: 5px;
+}
+.greenclr {
+    color: #70bf55 !important;
+}
+.bold {
+    font-weight: 900 !important;
+    color: #2b323a;
+}
+

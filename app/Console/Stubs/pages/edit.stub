@@ -1,0 +1,58 @@
+@extends('admin.layouts.main')
+@section('title')
+	Edit {{ Str::headline(request()->segment(2)) }}
+@stop
+@section('content')
+	<div class="container">
+		<div class="card card-default">
+		  <div class="card-header">
+		    <h3 class="card-title">Update {{ Str::headline(request()->segment(2)) }}</h3>
+		  </div>
+		  <!-- /.card-header -->
+		  <!-- form start -->
+		  <div class="card-body">
+		      <form method="post" action="{{ route('admin.dummies.update',$dummy->id) }}">
+		          @csrf
+		          @method('PUT')
+
+		          <div class="form-group row">
+		              <label for="name" class="required col-sm-3 col-form-label">{{ __('Name') }}</label>
+
+		              <div class="col-sm-9">
+		                  <input id="name" type="text" class="form-control form-control-sm @error('name') is-invalid @enderror" name="name" value="{{ old('name')?:$dummy->name }}" required autocomplete="name" autofocus>
+
+		                  @error('name')
+		                      <span class="invalid-feedback" role="alert">
+		                          <strong>{{ $message }}</strong>
+		                      </span>
+		                  @enderror
+		              </div>
+		          </div>
+
+		          <div class="form-group row">
+		              <label for="description" class="col-sm-3 col-form-label">Description</label>
+
+		              <div class="col-sm-9">
+		                	
+		              	  <textarea class="form-control" name="description" id="description">{{ old('description') ?: $dummy->description }}</textarea>
+		                  @error('description')
+		                      <span class="invalid-feedback" cluster="alert">
+		                          <strong>{{ $message }}</strong>
+		                      </span>
+		                  @enderror
+		              </div>
+		          </div>
+
+		          <div class="form-group row mb-0">
+		              <div class="col-sm-5 offset-sm-3">
+		                  <button type="submit" class="btn btn-sm btn-primary">
+		                      Update
+		                  </button>
+		              </div>
+		          </div>
+		      </form>
+		  </div>
+		  	
+		</div>
+	</div>
+@endsection
